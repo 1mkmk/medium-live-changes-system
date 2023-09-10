@@ -1,0 +1,11 @@
+{
+  "connection": {
+    "host": "localhost",
+    "port": 3306,
+    "credentials": {
+      "username": "db_user",
+      "password": "db_password"
+    },
+    "databaseName": "db_name"
+  }
+}
